@@ -1,0 +1,7 @@
+function dist = distanza(X)
+%DISTANZA Summary of this function goes here
+%   calcola la distanza tra il punto i e il punto j di una matrice MxN
+    for ir=length()
+    
+
+end

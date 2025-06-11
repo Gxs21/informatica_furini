@@ -1,0 +1,19 @@
+function N = stima_densita(X,r_min)
+%calcolo della stima della densità
+for ir=1:length(X)
+    delta=X-X(ir,:)
+    densita=sqrt(sum(delta.^2))
+
+
+end
+
+end
+
+arguments (Output)
+    outputArg1
+    outputArg2
+end
+
+outputArg1 = inputArg1;
+outputArg2 = inputArg2;
+end
